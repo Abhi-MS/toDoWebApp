@@ -1,2 +1,2 @@
 # toDoWebApp
-Todo Web App using Node.js Express.js and ejs
+Todo Web App using Bootstrap, Node.js Express.js and ejs
